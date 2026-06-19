@@ -1,0 +1,14 @@
+# Secret Environment Variables
+.env
+
+# Python junk (compiled bytecode)
+__pycache__/
+*.pyc
+
+# Local Databases
+*.db
+*.sqlite
+
+# OS specific files
+.DS_Store
+Thumbs.db

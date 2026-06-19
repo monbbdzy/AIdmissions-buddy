@@ -1,0 +1,1 @@
+# Bot tokens, environment variables, constant texts
